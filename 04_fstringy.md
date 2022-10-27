@@ -2,7 +2,7 @@
 F-string je jen jinak, zapsaný string, používáme ho pro složitější operace se stringy (texty).
 Velice užitěcné jsou pro printování více informací najednou, tabulek atd.
 
-# Ukázka č. 1 
+## Ukázka č. 1 
 **Rozdíl mezi klasickým stringem a f-stringem.** Pomocí f-stringu je zápis výrazně jednodušší a přehlednější.
 Zapisujeme jako f"{nejaka_promenna} a nějaký text", ve složených závorkách můžeme vykonávat i početní 
 operace nebo i jinak upravovat proměnné, které chceme tisknout.
@@ -23,7 +23,7 @@ cislo_b = 7
 priklad = f"{cislo_a} + {cislo_b} = {cislo_a+cislo_b}"      
 print(priklad)
 ```
-# Ukázka č. 2
+## Ukázka č. 2
 Dva způsoby zápisu f-stringů, prvni je dle mého výrazně lepší, přehlednější, používejte ho.
 ```python
 jmeno = "Pepa"

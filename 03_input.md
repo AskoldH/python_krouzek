@@ -8,7 +8,7 @@ Funkce na změnu datového typu: **int()** -> měni na celé číslo, **float()*
 písmena na číslo -> nelze)
 
 
-# Ukázka č. 1
+## Ukázka č. 1
 Do závorky a uvozovek píšeme co se má zobrazi uživateli, je to nějaká výzva k napsání informací do konzole, 
 např. "Zadejte číslo: " 
 ```python
@@ -16,7 +16,7 @@ input("Zadejte číslo: ")
 ```
  
 
-# Ukázka č. 2
+## Ukázka č. 2
 Pro použití načtené hodnoty ji musíme vložit do proměnné, defaultně je datový typ string, takže s 
 informací můžeme dělat jen operace, které jsou povolené pro stringy.
 ```python
@@ -24,7 +24,7 @@ nactene_cislo = input("Zadejte číslo: ") # načtenou hodnotu ukládáme do pro
 print(nactene_cislo)
 ```
 
-# Ukázka č. 3
+## Ukázka č. 3
 Měnění datového typu. Pokud načtená data nejdou převést, tak nám kód vyhodí chybu. Kód bude nefunkční.
 ```python
 nactene_cislo = int(input("Zadejte číslo: ")) # Změnili jsme z defaulního stringu na číslo (int)
@@ -38,7 +38,7 @@ text = str(45) # Změnili jsme natový typ z číslo (int) na text (str)
 ```
 
 
-# Ukázka č. 4
+## Ukázka č. 4
 Operace s načtenými daty. Pracujeme s nimi jako s běžnými proměnnými. Platí pro ně vše jako pro běžně
 vytvořené proměnné.
 ```python
