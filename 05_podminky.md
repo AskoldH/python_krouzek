@@ -8,6 +8,7 @@ v dalším souboru.
 ## Ukázka č. 1
 V této ukázce se provede jen kód v if větvi, protože podmínka je pravdivá, proměnná cislo je rovna čtyřem, to se i vytiskne. Kdyby proměnná cislo měla
 hodnotu např. 6 tak se provede až větev else, jelikož tohle číslo se nerovná ani čtyřce nebo pětce. Rovnost kontrolujeme pomocí dvou označení rovnosti (==).
+Můžeme používat i znak pro nerovnost (!=), to je pravda pokud se dvě proměnné nerovnají.
 Hodnota mezi slovem if a dvojtečkou musí být jednoznačně rozhodnutelná, true/false, podle toho se Python rozhoduje. Platí že nejdřív se provede kontola podmínky
 větve if, pokud je nepravda tak se kontoluje podmínka větve elif (těch můžeme zapsat i několik za pod sebe), pokud ani elif podmínka neplatí tak se provede 
 automaticky kód ve větvi else, tak se nemusí kontolovat
@@ -29,7 +30,7 @@ je povinná jen větev if, elif ani else už mít nepotřebujeme.
 ```python
 slovo = "hello"
 
-if slovo = "hello":
+if slovo == "hello":
   print(slovo)
 ```
 
