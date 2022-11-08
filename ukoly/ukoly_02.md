@@ -21,3 +21,5 @@ Načtěte od uživatele 3 slova a vypište nejdelší z nich, např.
 "Načtené slovo Radek je nejdelší zadané slovo!"
 
 ## 5.
+Načtěte od uživatele číslo, podud je menší než 10 a zároveň větší nebo rovno 3 tak vypište "Ano, číslo je v intervalu (10; 3>",
+pokud není tak vypište že v tom intervalu není.
