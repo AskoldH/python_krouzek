@@ -36,7 +36,7 @@ Podmínka if se provede jen když je proměnná cislo větší než 3 **NEBO** m
 ```python
 cislo = 5
 
-if cislo > 3 and cislo < 0:
+if cislo > 3 or cislo < 0:
   print("Je menší než 0 a větší než 3!")
 ```
 
