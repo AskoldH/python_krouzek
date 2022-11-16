@@ -52,7 +52,7 @@ if not(cislo > 3):
 ## Ukázka č. 4
 Použití logického operátoru or, pokud je zadané slovo Karel nebo Honza tak vyprintíme Ahoj a příslušné jméno, pokud to je Pribiňáček nebo Bueno vyprintíme Dal bych si příslušné slovo.
 ```python
-slovo = int(input("Zadejte jedno slovo: "))
+slovo = input("Zadejte jedno slovo: ")
 
 if slovo == "Karel" or slovo == "Honza":
   print(f"Ahoj {slovo}!")
