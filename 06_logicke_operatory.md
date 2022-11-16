@@ -8,7 +8,7 @@ Pravdivostní tabulku pro and, or a not:
 |0|0|0|
 |0|1|0|
 |1|0|0|
-|1|1|0|
+|1|1|1|
 
 |a|b|a or b|
 |:-:|:-:|:-:|
