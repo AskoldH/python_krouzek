@@ -42,7 +42,7 @@ Načtěte od uživatele dvě informace, věk člověka a jestli chodí do školy
 Načtěte od uživatele číslo a zjistěte jestli je číslo sudé nebo liché, jesti je záporné, kladné nebo nula, jestli je dělitelné bezezbytku trojkou a čtyřkou. Použijte "and" a fstringy (pro informování uživatle).
 
 ## 11. *
-Naprogramujte program na pomoc s matematikou, kde si uživatel vybere co chce dělat (sčítání, odčítání, dělení, násobení, mocnina, zjistit zda je číslo kladné, záporné nebo 0, zda je sudé nebo liché, zda je dělitelné beze zbytku trojkou neno čtyřkou nebo pětkou nebo desítkou), podle toho co si vybere 
+Naprogramujte program na pomoc s matematikou, kde si uživatel vybere co chce dělat (sčítání, odčítání, dělení, násobení, mocnina, zjistit zda je číslo kladné, záporné nebo 0, zda je sudé nebo liché, zda je dělitelné beze zbytku trojkou, čtyřkou, pětkou nebo desítkou), podle toho co si vybere 
 tak načte určitý počet čísel a vyprintí se mu výsledek.
 
 
