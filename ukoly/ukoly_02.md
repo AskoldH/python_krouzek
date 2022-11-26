@@ -1,4 +1,4 @@
-# Příklady k procvičení - soubory 5 až ...
+# Příklady k procvičení - soubory 5 a 6
 
 Pokud nevíte jak u něčeho postupovat, nevíte vzorečky atd., zkuste se podívat na internet nebo mi napiště. 
 Pokud na to ale příjdete bez nápovědy s tím, že se pořádně zamyslíte, bude to
