@@ -1,7 +1,7 @@
 # While loop (while smyčka)
 While, je smyčka, která se provádí dokud platí její podmínka. Jako 
 podmínku vkládáme stejně jako u if else statementů určitý výraz, který
-může obsahovat i logické operátory.
+může obsahovat i logické operátory. Důležité jsou také klíčová slova continue a break.
 
 ## Ukázka č. 1
 V tomto případě je podmínka rovna hodnotě True, tím pádem se while
@@ -37,4 +37,43 @@ while cislo < 10:
     cislo += 1
     
 print("Již jsme venku z while!")
+```
+
+## Ukázka č. 4
+V této ukázce smyčka while končí až v případě, že uživatel zadá slovní spojení "Ahoj Karle!".
+```python
+zadano_uzivatelem = input("Zadejte 'Ahoj Karle!': ") 
+while zadano_uzivatelem != "Ahoj Karle!":
+    print("Nezadal jsi 'Ahoj Karle!', styď se!")
+    zadano_uzivatelem = input("Zadejte 'Ahoj Karle!': ") 
+    
+print("Správně!")
+```
+
+## Ukázka č. 5
+Slovo **break** nám ukončí cyklus. Všimněte si nekonečné smyčky, provede se ale jen jednou kvůli break.
+```python 
+while True:
+    print("První iterace!")
+    break
+
+print("Breaknuto ven!")
+```
+
+## Ukázka č. 5
+Slovo continue nám skočí rovnou na konec cyklu a poté se cyklus provede znova, jestli platí podmínka.
+```python
+cislo = 1
+while cislo < 10:
+    print(f"{cislo}. Iterace a ", end="")
+    
+    if cislo % 2:
+        print(f"číslo je liché!\n")
+        cislo += 1
+        continue
+    
+    print("číslo je sudé!\n")
+    cislo += 1
+
+print("Jsme venku ze smyčky.")
 ```
