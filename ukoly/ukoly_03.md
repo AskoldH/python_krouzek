@@ -1,4 +1,4 @@
-# Příklady k procvičení - soubory 7 až ...
+# Příklady k procvičení - soubor 7
 
 Pokud nevíte jak u něčeho postupovat, nevíte vzorečky atd., zkuste se podívat na internet nebo mi napiště. 
 Pokud na to ale příjdete bez nápovědy s tím, že se pořádně zamyslíte, bude to
@@ -27,3 +27,5 @@ Vymyslete si číslo od 1 do 100. Nechte uživatele tohle číslo hádat, dokud 
 
 ## 6.
 Napište program, který vypíše všechny číslo od 1 do 20 a řekne, jestli je číslo sudé nebo liché.
+
+
