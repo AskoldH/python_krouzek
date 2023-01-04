@@ -14,7 +14,7 @@ Napište program, který vytiskne všechny lichá čísla od dvanacti po 32. Zku
 Napište program, který vytiskne posloupnost 57, 60, 63, 66, ... až včetně 117.
 
 ## 4. 
-Napište porgram, který načte od uživatele slovo a mezi každé písmeno tohoto slova vloží hvězdičku. Př. Ze zadaného slova "Radek" bude vyprintěný výsledek "R\*d\*e\*k"
+Napište porgram, který načte od uživatele slovo a mezi každé písmeno tohoto slova vloží hvězdičku. Př. Ze zadaného slova "Radek" bude vyprintěný výsledek "R\*a\*d\*e\*k"
 
 ## 5. 
 Napiště program, který načte číslo od uživatele a pak zjistí, jestli je číslo prvočíslo (je dělitelné jen sebou samým a jedničkou). Tento úkol je velice zajímavý, zkuste vymyslet rozšíření, zkuste zjistit a vytisknout všechny provočísla od 1 do 50 atd., zkuste i vyšší čísla, ale né moc vysoká... Pak se vám program sekna na dlouho.
