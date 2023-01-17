@@ -10,10 +10,10 @@ Napište program, který projde všemi čísly od jedničky po desítku včetně
 ___
 ## 2.
 Napište program, který vytiskne všechny lichá čísla od dvanacti po 32. Zkuste vymyslet dvě řešení. (Nápověda -> první... %, druhé... step, krok)
-___
+
 ## 3.
 Napište program, který vytiskne posloupnost 57, 60, 63, 66, ... až včetně 117.
-___
+
 ## 4. 
 Napište porgram, který načte od uživatele slovo a mezi každé písmeno tohoto slova vloží hvězdičku. Př. Ze zadaného slova "Radek" bude vyprintěný výsledek "R\*d\*e\*k"
 ___
