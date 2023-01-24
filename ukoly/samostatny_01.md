@@ -4,7 +4,7 @@ vypíše, kolik to je určitých časových jednotek, výběr nechte na uživate
 bude se jednat o měsíce, týdny, dny, hodiny, minuty a sekundy. Řiďte se tabulkou
 níže!
 
-![img.png](tydny_ve_dnu.png)
+![img.png](/obrazky/tydny_ve_dnu.png)
 
 Př. Zadám, že mi je 31 let, vyberu si, že to chci zobrazit, kolik 
 to je měsíců a program mi vypíše že to je 372 měsíců. Když při stejném
