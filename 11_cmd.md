@@ -13,8 +13,26 @@ python python_program.py
 
 * Proto abychom mohli zadat zmíněn příkaz, tak musíme být ve složce, ve které se nachází i Python soubor, který chceme spustit. V příkazovém řádku se pohybujeme mezi složkami pomocí příkazu "cd <složka kam se chci přemístit>", "cd" jako change directory (změň složku), pokud nevíme co ve složce máme, tak si můžeme veškerý obsah složky vypsat pomocí příkazu "dir". Příklady:
 
+Následovně může vypadat strukrura složek, obsahuje složky i soubory.
+```
+home
+|---download
+|   |   - image.png
+|   |   - fedora.iso
+|
+|---documents
+|   |   - school
+|   |     |   - homework.pdf
+|   |   - pracovni_smlouva.pdf
+```
+
 ```console
 cd obrazky_z_dovolene
+```
+
+Příkazem "cd .." se pak dostaneme o složku výše. 
+```console
+cd ..
 ```
 
 ```console
