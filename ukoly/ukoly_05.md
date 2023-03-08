@@ -32,4 +32,4 @@ Vytvořte program, který bude provádět matematické operace. Čím více tím
 
 ___
 ## 5.
-Vytvořte program na výpočet povrchu, a obsahu kvádru. Použijte funkce. Uživatel zadá potřebné informace a pak se ho program zeptá, jestli chce vypočítat povrch nebo obsah.
+Vytvořte program na výpočet povrchu, a objem kvádru. Použijte funkce. Uživatel zadá potřebné informace a pak se ho program zeptá, jestli chce vypočítat povrch nebo obsah.
