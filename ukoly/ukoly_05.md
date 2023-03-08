@@ -22,3 +22,14 @@ Druhá osoba:
 .        
 ```
 ___
+
+## 3.
+Vytvořte program, který se zeptá na jméno a potom uživatele tímto jménem pozdraví, použijte funkci. Takto se to provede 3x. 
+
+___ 
+## 4.
+Vytvořte program, který bude provádět matematické operace. Čím více tím lépe. Použijte klidně kód z minulé "kalkulačky", nicméně jenotlivé úkony, např. sčítání, provádějte ve funkcích. Po vybrání operace, výpočtu a vyprintění výpočtu se program nevypne ale uživatel si bude moci vybrat další operaci. Program se ukončí až po napsání exit do výběrového řádku.
+
+___
+## 5.
+Vytvořte program na výpočet povrchu, a obsahu kvádru. Použijte funkce. Uživatel zadá potřebné informace a pak se ho program zeptá, jestli chce vypočítat povrch nebo obsah.
